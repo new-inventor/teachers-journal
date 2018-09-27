@@ -12,7 +12,8 @@
     },
     "require-dev": {
         "sensiolabs/security-checker": "^4.1",
-        "symfony/dotenv": "*"
+        "symfony/dotenv": "*",
+        "symfony/test-pack": "^1.0"
     },
     "config": {
         "preferred-install": {
